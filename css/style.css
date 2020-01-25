@@ -1,0 +1,223 @@
+.borderlogo {
+	height: 200px;
+}
+
+.logo {
+	width: 90%;
+	margin: auto;
+	height: 200px;
+}
+
+.logoleft {
+	width: 20%;
+	float: left;
+	height: 200px;
+	background-color: red;
+}
+
+.p1 {
+	font-size: 40px;
+	border: 1px solid black;
+	float: left;
+}
+
+.logoright {
+	width: 80%;
+	float: left;
+	height: 200px;
+	background-color: #FFFFCC;
+}
+
+.logorightup {
+	height: 50%;
+	width: 80%;
+	margin: auto;
+	background-color: #FFFF66;
+	border-top-left-radius: 70px;
+	border-bottom-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 70px;
+}
+
+.title {
+	font-size: 30px;
+	margin: 0px;
+	padding: 10px;
+	margin-left: 43px;
+}
+
+.firstinfo {
+	float: left;
+	width: 40%;
+}
+
+.icon-phone {
+	height: 25px;
+	width: 25px;
+	margin-left: 40px;
+	margin-top: 5px;
+}
+
+.phone {
+	margin-left: 75px;
+	margin-top: -27px;
+	font-size: 20px;
+}
+
+.numberphone {
+	text-decoration: none;
+	color: black;
+}
+
+.secondinfo {
+	float: right;
+	width: 60%;
+}
+
+.icon-location {
+	height: 25px;
+	width: 22px;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+.location {
+	margin-left: 45px;
+	margin-top: -27px;
+	font-size: 20px;
+}
+
+.logorightdown {
+	height: 50%;
+	width: 100%;
+	margin: auto;
+}
+
+.quality {
+	height: 96%;
+	width: 33%;
+	float: left;
+}
+
+.icon-quality {
+	height: 60px;
+	width: 60px;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+
+.quality1 {
+	margin-left: 90px;
+	margin-top: -60px;
+	font-size: 25px;
+}
+
+.quality2 {
+	margin-left: 90px;
+	margin-top: -25px;
+	font-size: 20px;
+}
+
+.ship {
+	height: 96%;
+	width: 34%;
+	float: left;
+}
+
+.icon-ship {
+	height: 75px;
+	width: 75px;
+	margin-left: 15px;
+}
+
+.ship1 {
+	margin-left: 115px;
+	margin-top: -80px;
+	font-size: 25px;
+}
+
+.ship2 {
+	margin-left: 115px;
+	margin-top: -25px;
+	font-size: 20px;
+}
+
+.advisory {
+	height: 96%;
+	width: 33%;
+	float: left;
+}
+
+.icon-advisory {
+	height: 60px;
+	width: 60px;
+	margin-left: 20px;
+	margin-top: 25px;
+}
+
+.advisory1 {
+	margin-left: 90px;
+	margin-top: -60px;
+	font-size: 25px;
+}
+
+.advisory2 {
+	margin-left: 90px;
+	margin-top: -25px;
+	font-size: 20px;
+}
+
+.gift {
+	height: 96%;
+	width: 33%;
+	float: left;
+}
+
+.icon-gift {
+	height: 75px;
+	width: 75px;
+	margin-left: 35px;
+}
+
+.gift1 {
+	margin-left: 145px;
+	margin-top: -80px;
+	font-size: 25px;
+}
+
+.gift2 {
+	margin-left: 145px;
+	margin-top: -25px;
+	font-size: 20px;
+}
+
+.slide {
+	background-color: yellow;
+	height: 400px;
+}
+
+.p2 {
+	font-size: 40px;
+	margin: auto;
+}
+
+body {
+	/*background-color: #FFFF99;*/
+}
+
+section {
+	width: 90%;
+	margin: auto;
+	background-color: #FFFF99
+}
+
+nav {
+	border: 1px solid 
+}
+
+nav a {
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+	padding: 15px;
+}
